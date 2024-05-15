@@ -1,1 +1,4 @@
-# simple_asyncio_tcp_server
+# Simple asyncio TCP server
+
+Run server: ```docker-compose up```
+
